@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a second-year BS Software Engineering student at **PUCIT, University of the Punjab, Lahore 🇵🇰** building full-stack web apps, ML pipelines, and Android experiences. I work on everything from NLP classifiers to ASP.NET MVC apps to real-time computer vision systems — and I teach OOP and Software Engineering as a TA at PUCIT alongside it all.
+I'm a Third-year BS Software Engineering student at **PUCIT, University of the Punjab, Lahore 🇵🇰** building full-stack web apps, ML pipelines, and .Net Experiences. I work on everything from NLP classifiers to ASP.NET MVC apps to real-time computer vision systems — and I teach OOP and Software Engineering as a TA at PUCIT alongside it all.
 
 > 🛠️ **Currently building:** end-to-end projects across web, mobile, and ML
 >
