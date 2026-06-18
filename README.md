@@ -2,12 +2,12 @@
 
 # Hi 👋, I am Noor Fatima
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8526A&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;.NET+Developer;ML+Engineer;Teaching+Assistant+%40+PUCIT;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E3963E&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;.NET+Developer;ML+Engineer;Teaching+Assistant+%40+PUCIT;Always+building+something+new)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-fatimah-8b86322a7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorefatimah0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-fatimah-8b86322a7)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorefatimah0@gmail.com)
 
 </div>
 
