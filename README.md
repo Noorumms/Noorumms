@@ -15,9 +15,9 @@
 
 ## About Me
 
-I'm a Third-year BS Software Engineering student at **PUCIT, University of the Punjab, Lahore 🇵🇰** building full-stack web apps, ML pipelines, and .Net Experiences. I work on everything from NLP classifiers to ASP.NET MVC apps to real-time computer vision systems — and I teach OOP and Software Engineering as a TA at PUCIT alongside it all.
+I'm a Third-year BS Software Engineering student at **PUCIT, University of the Punjab, Lahore 🇵🇰** building full-stack web apps, ML pipelines, and .NET experiences. I work on everything from NLP classifiers to ASP.NET Core APIs to real-time computer vision systems — and I teach OOP and Software Engineering as a TA at PUCIT alongside it all.
 
-> 🛠️ **Currently building:** end-to-end projects across web, mobile, and ML
+> 🛠️ **Currently building:** [Hunar](https://github.com/yourusername/Hunar) — a hyperlocal skilled worker marketplace REST API with Clean Architecture, JWT Auth, and an AI matching layer
 >
 > 🎯 **Interests:** clean architecture · NLP · computer vision · automation workflows
 >
@@ -77,6 +77,22 @@ I'm a Third-year BS Software Engineering student at **PUCIT, University of the P
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚒️ Hunar — Hyperlocal Services Marketplace</h3>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Day-1%20of%209-0D9488?style=flat-square"/>
+      <br/><br/>
+      <p>Full-stack hyperlocal marketplace connecting customers with nearby skilled workers across Pakistani cities. Built with Clean Architecture, JWT auth, EF Core, and an AI provider matching layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-28a745?style=flat-square"/>
+      </p>
+      <a href="https://github.com/yourusername/Hunar"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🐱 Feline Gallery</h3>
       <p>Full-stack ASP.NET Core MVC app with layered architecture, EF Core, and dynamic data-driven UI.</p>
       <p>
@@ -87,6 +103,8 @@ I'm a Third-year BS Software Engineering student at **PUCIT, University of the P
       </p>
       <a href="http://www.felinegallery.somee.com"><img src="https://img.shields.io/badge/🌐 Live Demo-6A0DAD?style=for-the-badge&logoColor=white"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📧 Spam Email Classifier</h3>
       <p>NLP pipeline achieving 97%+ accuracy. Benchmarked across Naive Bayes, Logistic Regression, and SVM.</p>
@@ -96,17 +114,6 @@ I'm a Third-year BS Software Engineering student at **PUCIT, University of the P
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
       <a href="https://spam-checker-app.streamlit.app/"><img src="https://img.shields.io/badge/🌐 Live Demo-6A0DAD?style=for-the-badge&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Task & Event Automation</h3>
-      <p>End-to-end n8n workflows integrating Google Calendar & Tasks APIs, cutting scheduling overhead by ~60%.</p>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OAuth-4A90D9?style=flat-square&logo=auth0&logoColor=white"/>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>😊 Face Detection & Emotion Recognition</h3>
@@ -148,7 +155,15 @@ I'm a Third-year BS Software Engineering student at **PUCIT, University of the P
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Task & Event Automation</h3>
+      <p>End-to-end n8n workflows integrating Google Calendar & Tasks APIs, cutting scheduling overhead by ~60%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OAuth-4A90D9?style=flat-square&logo=auth0&logoColor=white"/>
+      </p>
+    </td>
   </tr>
 </table>
 
