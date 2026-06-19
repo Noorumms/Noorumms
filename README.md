@@ -2,7 +2,7 @@
 
 # Hi 👋, I am Noor Fatima
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E3963E&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;.NET+Developer;ML+Engineer;Teaching+Assistant+%40+PUCIT;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9b7fd4&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;.NET+Developer;ML+Engineer;Teaching+Assistant+%40+PUCIT;Always+building+something+new)](https://git.io/typing-svg)
 
 <br/>
 
