@@ -17,7 +17,7 @@
 
 I'm a Third-year BS Software Engineering student at **PUCIT, University of the Punjab, Lahore 🇵🇰** building full-stack web apps, ML pipelines, and .NET experiences. I work on everything from NLP classifiers to ASP.NET Core APIs to real-time computer vision systems — and I teach OOP and Software Engineering as a TA at PUCIT alongside it all.
 
-> 🛠️ **Currently building:** [Hunar](https://github.com/yourusername/Hunar) — a hyperlocal skilled worker marketplace REST API with Clean Architecture, JWT Auth, and an AI matching layer
+> 🛠️ **Currently building:** [Hunar](https://github.com/Noorumms/Hunar) — a hyperlocal skilled worker marketplace REST API with Clean Architecture, JWT Auth, and an AI matching layer
 >
 > 🎯 **Interests:** clean architecture · NLP · computer vision · automation workflows
 >
@@ -90,7 +90,7 @@ I'm a Third-year BS Software Engineering student at **PUCIT, University of the P
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/Clean_Architecture-28a745?style=flat-square"/>
       </p>
-      <a href="https://github.com/yourusername/Hunar"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Noorumms/Hunar"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🐱 Feline Gallery</h3>
