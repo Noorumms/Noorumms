@@ -63,6 +63,7 @@ I'm a third-year BS Software Engineering student at **PUCIT, University of the P
 ## Featured Projects
 
 <table>
+  <!-- Row 1: Hunar + Feline Gallery -->
   <tr>
     <td width="50%" valign="top">
       <h3>⚒️ Hunar — Hyperlocal Services Marketplace</h3>
@@ -80,17 +81,18 @@ I'm a third-year BS Software Engineering student at **PUCIT, University of the P
       <a href="https://github.com/Noorumms/Hunar"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Virtual Paint — Real-Time CV App</h3>
-      <p>Real-time virtual painting app built with Python and OpenCV. Point any colored object at your webcam and draw on screen — no mouse or touchscreen needed. Detects multiple colors simultaneously with adjustable brush sizes, eraser, and PNG export.</p>
+      <h3>🐱 Feline Gallery</h3>
+      <p>Full-stack ASP.NET Core MVC app with layered architecture, EF Core, and a fully data-driven UI with no hardcoded content.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HSV_Detection-9b7fd4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
       </p>
       <a href="https://github.com/Noorumms"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
+  <!-- Row 2: Spam Checker + Car Price Predictor -->
   <tr>
     <td width="50%" valign="top">
       <h3>📧 Spam Email Classifier</h3>
@@ -103,17 +105,43 @@ I'm a third-year BS Software Engineering student at **PUCIT, University of the P
       <a href="https://spam-checker-app.streamlit.app/"><img src="https://img.shields.io/badge/Live Demo-6A0DAD?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐱 Feline Gallery</h3>
-      <p>Full-stack ASP.NET Core MVC app with layered architecture, EF Core, and a fully data-driven UI with no hardcoded content.</p>
+      <h3>🚗 Car Price Predictor</h3>
+      <p>End-to-end ML regression pipeline predicting used car prices from the Quikr India dataset. Full data cleaning, EDA with interpretations, OneHotEncoding pipeline, and Linear Regression model benchmarked across 1000 random splits to find the optimal train/test split.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://preloved-wheels.streamlit.app/"><img src="https://img.shields.io/badge/Live Demo-6A0DAD?style=for-the-badge&logoColor=white"/></a>
+      <a href="https://github.com/Noorumms/car-price-predictor"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <!-- Row 3: Virtual Paint + MNIST -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Virtual Paint — Real-Time CV App</h3>
+      <p>Real-time virtual painting app built with Python and OpenCV. Point any colored object at your webcam and draw on screen — no mouse or touchscreen needed. Detects multiple colors simultaneously with adjustable brush sizes, eraser, and PNG export.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HSV_Detection-9b7fd4?style=flat-square"/>
       </p>
       <a href="https://github.com/Noorumms"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/Noorumms/MNIST-Digit-Classification-Using-Handcrafted-Features">MNIST Digit Classification</a></h3>
+      <p>Handwritten digit classification using manually engineered pixel features — no deep learning. Demonstrates a solid understanding of classical ML pipelines end to end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Noorumms/MNIST-Digit-Classification-Using-Handcrafted-Features"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
   </tr>
+  <!-- Row 4: ML from Scratch + AI Automation -->
   <tr>
     <td width="50%" valign="top">
       <h3>🧮 <a href="https://github.com/Noorumms/ml-from-scratch">ML Algorithms from Scratch</a></h3>
@@ -135,6 +163,7 @@ I'm a third-year BS Software Engineering student at **PUCIT, University of the P
       </p>
     </td>
   </tr>
+  <!-- Row 5: RPG Adventure (solo) -->
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/Noorumms/RPG-Adventure">RPG Adventure</a></h3>
@@ -146,16 +175,7 @@ I'm a third-year BS Software Engineering student at **PUCIT, University of the P
       </p>
       <a href="https://github.com/Noorumms/RPG-Adventure"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Noorumms/MNIST-Digit-Classification-Using-Handcrafted-Features">MNIST Digit Classification</a></h3>
-      <p>Handwritten digit classification using manually engineered pixel features — no deep learning. Demonstrates a solid understanding of classical ML pipelines end to end.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Noorumms/MNIST-Digit-Classification-Using-Handcrafted-Features"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
